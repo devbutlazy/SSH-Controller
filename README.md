@@ -17,22 +17,22 @@ To run this application, you need to have the following installed on your system
 `>` **Dear PyGui library** (for the GUI)   
 
 ## Installation
-`1.` First, ensure you have Python installed. If not, download it from [Python Official Website](https://www.python.org/downloads/).     
-`2.` Install the required libraries using pip:   
+`1` First, ensure you have Python installed. If not, download it from [Python Official Website](https://www.python.org/downloads/).     
+`2` Install the required libraries using pip:   
 ```
 pip install paramiko dearpygui
 ```   
-`3.` Clone this repository to your local machine:      
+`3` Clone this repository to your local machine:      
 ```
 git clone https://github.com/YOUR_USERNAME/SSH-Controller.git
 ``` 
 
 ## How to Use
-`1.` Navigate to the project directory:     
+`1` Navigate to the project directory:     
 ```
 cd SSH-Controller
 ```   
-`2.` Run the application:       
+`2` Run the application:       
 ```
 python main.py
 ``` 
