@@ -18,8 +18,8 @@ To run this application, you need to have the following installed on your system
 > Dear PyGui library (for the GUI)
 
 ## Installation
-`1.` First, ensure you have Python installed. If not, download it from [Python Official Website](https://www.python.org/downloads/).:-   
-`2.` Install the required libraries using pip::-   
+`1.` First, ensure you have Python installed. If not, download it from [Python Official Website](https://www.python.org/downloads/).     
+`2.` Install the required libraries using pip:   
 ```
 pip install paramiko dearpygui
 ```   
