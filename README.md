@@ -13,9 +13,9 @@ SSH Controller is a Python application that allows you to manage SSH connections
 ## Requirements
 To run this application, you need to have the following installed on your system:
 
-> Python (version 3.6 or higher)
-> Paramiko library (for SSH functionality)
-> Dear PyGui library (for the GUI)
+> Python (version 3.6 or higher)   
+> Paramiko library (for SSH functionality)   
+> Dear PyGui library (for the GUI)   
 
 ## Installation
 `1.` First, ensure you have Python installed. If not, download it from [Python Official Website](https://www.python.org/downloads/).     
