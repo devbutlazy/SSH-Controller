@@ -1,14 +1,14 @@
 # SSH-CONTROLLER
 
 ## Introduction
-> SSH Controller is a Python application that allows you to manage SSH connections and transfer files securely to remote servers. With a user-friendly interface built using Dear PyGui, this application provides a simple and efficient way to interact with remote servers using SSH.
+SSH Controller is a Python application that allows you to manage SSH connections and transfer files securely to remote servers. With a user-friendly interface built using Dear PyGui, this application provides a simple and efficient way to interact with remote servers using SSH.
 
 ## Features
-> 🔐 Secure Authentication: SSH Controller ensures secure authentication to remote servers using SSH.
+`>` 🔐 Secure Authentication: SSH Controller ensures secure authentication to remote servers using SSH.
 
-> 📂 File Transfer: Easily transfer files between your local machine and remote servers.
+`>` 📂 File Transfer: Easily transfer files between your local machine and remote servers.
 
-> 🚀 User-friendly Interface: The application provides an intuitive and user-friendly interface for a smooth experience.
+`>` 🚀 User-friendly Interface: The application provides an intuitive and user-friendly interface for a smooth experience.
 
 ## Requirements
 To run this application, you need to have the following installed on your system:
@@ -24,7 +24,9 @@ To run this application, you need to have the following installed on your system
 pip install paramiko dearpygui
 ```   
 `3.` Clone this repository to your local machine: :-   
-```git clone https://github.com/YOUR_USERNAME/SSH-Controller.git```:-   
+```
+git clone https://github.com/YOUR_USERNAME/SSH-Controller.git
+``` 
 
 ## How to Use
 `1.` Navigate to the project directory::-   
