@@ -1,6 +1,4 @@
-# SSH-CONTROLLER
-
-## Introduction
+## SSH CONTROLLER
 SSH Controller is a Python application that allows you to manage SSH connections and transfer files securely to remote servers. With a user-friendly interface built using Dear PyGui, this application provides a simple and efficient way to interact with remote servers using SSH.
 
 ## Features
