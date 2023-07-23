@@ -38,9 +38,9 @@ python main.py
       
             
 `·` The application will launch, showing the main menu.     
-`·` To establish an SSH connection, click on the "CONNECT TO THE SERVER" button. Enter the server's username, IP address, and password, and then click on the "LOGIN" button.    
-`·` Once connected, you can check the server's files by clicking on the "TRANSFER FILE" button. Enter the path to the folder you want to list and click on the "SUBMIT" button.     
-`·` You can always return to the main menu by clicking on the "BACK" button in the respective windows.   
+`·` To establish an SSH connection, click on the **"CONNECT TO THE SERVER"** button. Enter the server's **username**, **IP address**, and **password**, and then click on the **"LOGIN"** button.    
+`·` Once connected, you can check the server's files by clicking on the **"TRANSFER FILE"** button. Enter the path to the folder you want to list and click on the **"SUBMIT"** button.     
+`·` You can always return to the main menu by clicking on the **"BACK"** button in the respective windows.   
 
 ## Contributions and Issues
-Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvements, please create an `issue` in the GitHub repository.
+Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvements, please create an **`issue`** in the GitHub repository.
