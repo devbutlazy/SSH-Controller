@@ -43,4 +43,4 @@ python main.py
 `·` You can always return to the main menu by clicking on the **"BACK"** button in the respective windows.   
 
 ## Contributions and Issues
-Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvements, please create an **`issue`** in the GitHub repository.
+`❓` Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvements, please create an **`issue`** in the GitHub repository.
